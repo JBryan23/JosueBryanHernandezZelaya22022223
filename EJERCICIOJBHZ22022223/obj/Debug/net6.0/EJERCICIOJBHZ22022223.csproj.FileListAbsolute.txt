@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\bin\Debug\net6.0\EJERCICIOJBHZ22022223.exe
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\bin\Debug\net6.0\EJERCICIOJBHZ22022223.deps.json
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\bin\Debug\net6.0\EJERCICIOJBHZ22022223.runtimeconfig.json
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\bin\Debug\net6.0\EJERCICIOJBHZ22022223.dll
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\bin\Debug\net6.0\EJERCICIOJBHZ22022223.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\obj\Debug\net6.0\EJERCICIOJBHZ22022223.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\obj\Debug\net6.0\EJERCICIOJBHZ22022223.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\obj\Debug\net6.0\EJERCICIOJBHZ22022223.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\obj\Debug\net6.0\EJERCICIOJBHZ22022223.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\obj\Debug\net6.0\EJERCICIOJBHZ22022223.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\obj\Debug\net6.0\EJERCICIOJBHZ22022223.dll
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\obj\Debug\net6.0\refint\EJERCICIOJBHZ22022223.dll
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\obj\Debug\net6.0\EJERCICIOJBHZ22022223.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\obj\Debug\net6.0\EJERCICIOJBHZ22022223.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Documents\GitHub\JosueBryanHernandezZelaya22022223\EJERCICIOJBHZ22022223\obj\Debug\net6.0\ref\EJERCICIOJBHZ22022223.dll

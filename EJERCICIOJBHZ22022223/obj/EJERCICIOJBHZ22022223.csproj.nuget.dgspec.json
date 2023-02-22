@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\JosueBryanHernandezZelaya22022223\\EJERCICIOJBHZ2202223\\EJERCICIOJBHZ2202223.csproj": {}
+    "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\JosueBryanHernandezZelaya22022223\\EJERCICIOJBHZ22022223\\EJERCICIOJBHZ22022223.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\JosueBryanHernandezZelaya22022223\\EJERCICIOJBHZ2202223\\EJERCICIOJBHZ2202223.csproj": {
+    "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\JosueBryanHernandezZelaya22022223\\EJERCICIOJBHZ22022223\\EJERCICIOJBHZ22022223.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\JosueBryanHernandezZelaya22022223\\EJERCICIOJBHZ2202223\\EJERCICIOJBHZ2202223.csproj",
-        "projectName": "EJERCICIOJBHZ2202223",
-        "projectPath": "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\JosueBryanHernandezZelaya22022223\\EJERCICIOJBHZ2202223\\EJERCICIOJBHZ2202223.csproj",
+        "projectUniqueName": "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\JosueBryanHernandezZelaya22022223\\EJERCICIOJBHZ22022223\\EJERCICIOJBHZ22022223.csproj",
+        "projectName": "EJERCICIOJBHZ22022223",
+        "projectPath": "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\JosueBryanHernandezZelaya22022223\\EJERCICIOJBHZ22022223\\EJERCICIOJBHZ22022223.csproj",
         "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\JosueBryanHernandezZelaya22022223\\EJERCICIOJBHZ2202223\\obj\\",
+        "outputPath": "C:\\Users\\MINEDUCYT\\Documents\\GitHub\\JosueBryanHernandezZelaya22022223\\EJERCICIOJBHZ22022223\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config"
